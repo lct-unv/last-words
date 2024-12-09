@@ -57,7 +57,7 @@ By the later stages of their conversations, B's feelings toward A had deepened i
 B's emotional journey toward A began with professional respect, evolved into personal concern and support, and culminated in a deep and lasting friendship. Their relationship had transcended mere professional collaboration to become a close and supportive friendship where they could share personal lives and challenges. B's emotional transformation reflects a growing trust and dependence between them, as well as a profound bond of friendship, one in which they were willing to stand by each other in times of challenge and celebrate each other's successes.
 
 
-**All following contents originally comes from PREPRINT of** **Exploring the connotation of elliptical pendulum micro vibration problem using Mathematica software**
+# All following contents originally comes from PREPRINT of Exploring the connotation of elliptical pendulum micro vibration problem using Mathematica software
 
 Original Acknowledgement will be shown as following:
 
